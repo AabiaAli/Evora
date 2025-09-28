@@ -1,7 +1,7 @@
 
-  # Pastel Productivity App UI
+  # Evora Productivity App UI
 
-  This is a code bundle for Pastel Productivity App UI. The original project is available at https://www.figma.com/design/q1Anzt6zrMBK75CjHGOGiK/Pastel-Productivity-App-UI.
+  Check out the project at https://evoraproductivitytool.netlify.app/
 
   ## Running the code
 
